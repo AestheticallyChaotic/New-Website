@@ -1,0 +1,1 @@
+var d = createSprite (100,100,50,50)
